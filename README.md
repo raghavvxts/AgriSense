@@ -1,6 +1,6 @@
 # AgriSense+
 
-© 2026 Deepanshu Deshwal. All rights reserved.
+© 2026 Raghav Vats. All rights reserved.
 
 ## Overview
 
